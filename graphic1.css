@@ -1,0 +1,35 @@
+
+
+.onepage-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;	
+}
+.section-link {
+	padding-top:72px;
+}
+.was-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;
+}
+.wann-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;
+}
+.wieviel-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;
+}
+.wo-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;
+}
+.wer-section {
+	height:auto !important;
+	min-height:100%;
+	overflow: hidden;
+}
